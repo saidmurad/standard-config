@@ -1,6 +1,6 @@
 {
 	"homePage": {
-		"header_text": "<b>WELCOME TO<br />BAHMNI EMR & HOSPITAL SERVICE",
+		"header_text": "<b>WELCOME TO<br />Moa Orthopedic Specialty Clinic",
 		"logo": "/bahmni_config/openmrs/apps/home/logo.png",
 		"title_text": " "
 	},
@@ -33,34 +33,6 @@
 			"title": "Stock Inventory & Billing",
 			"logo": "/bahmni/images/bills.png",
 			"linkPrefix": "erp"
-		},
-		{
-			"enabled": false,
-			"name": "crater",
-			"title": "Payment & Billing",
-			"logo": "/bahmni/images/bills.png",
-			"linkPrefix": "payments"
-		},
-		{
-			"enabled": true,
-			"name": "connect",
-			"title": "Connect",
-			"logo": "/bahmni/images/connect.png",
-			"link": "/bahmni-connect"
-		},
-		{
-			"enabled": true,
-			"name": "dcm",
-			"title": "Radiology",
-			"logo": "/bahmni/images/pac.png",
-			"link": "/dcm4chee-web3"
-		},
-		{
-			"enabled": true,
-			"name": "metabase",
-			"title": "Analytics",
-			"logo": "/bahmni/images/analytics.png",
-			"link": "/metabase"
 		}
 	]
 }
